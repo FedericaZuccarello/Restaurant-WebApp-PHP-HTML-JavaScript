@@ -1,0 +1,74 @@
+/* css per gli index */
+.index, .edit, .add {
+  width:75%;
+  font-family:Arial;
+  letter-spacing:1px;
+  line-height:20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+.tbl-qa{
+  margin-left: 20%;
+  width: 50%;
+  font-size:12pt;
+  background-color: #12769c52;}
+
+.tbl-qa th.table-header {
+  padding: 5px;
+  text-align: left;
+  font-size:12pt;
+}
+
+.tbl-qa .table-row td {
+  padding:10px;
+  background-color: #FDFDFD;
+  vertical-align:top;}
+
+.button_link
+  {color:#FFF;
+  text-decoration:none;
+  font-size:14pt;
+   background-color:#16166ba1;
+   padding:15px;
+ }
+
+.home {
+  text-align:left;
+  margin-bottom:2%;
+}
+
+.table-header{
+  width: 10%;
+}
+
+.blocco {
+  text-align:right;
+  margin-bottom:2%;
+}
+
+/* css per gli edit */
+
+.frm-add {
+  border: #12769c52 5px solid;
+    padding-left:3%;
+    padding-top:3%;
+    padding-bottom:3%;
+  }
+
+.demo-form-row{
+  margin-top:2%;
+}
+.demo-form-field{width:300px;padding:10px;}
+
+.demo-form-submit{
+  color:#FFF;
+  background-color:#414444;
+  padding:10px 50px;
+  border:0px;
+  cursor:pointer;}
+
+.margine{
+  margin-left: 20%;
+}
